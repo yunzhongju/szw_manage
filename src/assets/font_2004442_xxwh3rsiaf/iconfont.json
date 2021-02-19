@@ -1,0 +1,79 @@
+{
+  "id": "2004442",
+  "name": "szw-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15174926",
+      "name": "直播 播放 摄像机 观看 面性",
+      "font_class": "zhibobofangshexiangjiguankanmianxing",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "15468762",
+      "name": "评选投票",
+      "font_class": "pingxuantoupiao",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "819071",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "4968386",
+      "name": "社区",
+      "font_class": "shequ",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "11700816",
+      "name": "三竖线",
+      "font_class": "sanshuxian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15796867",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1312086",
+      "name": "内容管理",
+      "font_class": "neirongguanli",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6431877",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10439017",
+      "name": "首页-选中",
+      "font_class": "home",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13641292",
+      "name": "机构",
+      "font_class": "jigou",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    }
+  ]
+}
